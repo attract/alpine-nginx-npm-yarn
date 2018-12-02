@@ -4,6 +4,7 @@ Tag          | Version
 :------------|:----------
  1.0.0       | Start
  1.0.1       | Coreutils and nano
+ 1.0.2       | Curl
  
 ## Versions
 
