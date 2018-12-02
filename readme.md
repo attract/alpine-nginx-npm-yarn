@@ -5,13 +5,14 @@ Tag          | Version
  1.0.0       | Start
  1.0.1       | Coreutils and nano
  1.0.2       | Curl
+ 1.0.3       | Stable Nginx
  
 ## Versions
 
 Main Package  | Version
 :-------------|:----------
  Alpine       | 3.8
- Nginx       | 1.15.1
+ Nginx       | 1.14.1
  Nodejs       | 8.14
  Npm       | 8.14
  Yarn       | 1.7
