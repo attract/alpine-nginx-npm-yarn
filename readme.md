@@ -6,6 +6,7 @@ Tag          | Version
  1.0.1       | Coreutils and nano
  1.0.2       | Curl
  1.0.3       | Stable Nginx
+ 1.0.4       | Add libgd
  
 ## Versions
 
