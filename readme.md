@@ -7,6 +7,7 @@ Tag          | Version
  1.0.2       | Curl
  1.0.3       | Stable Nginx
  1.0.4       | Add libgd
+ 1.0.5       | Add nginx 1.15.8, apache2-utils
  
 ## Versions
 
