@@ -2,20 +2,15 @@
 
 Tag          | Version
 :------------|:----------
- 1.0.0       | Start
- 1.0.1       | Coreutils and nano
- 1.0.2       | Curl
- 1.0.3       | Stable Nginx
- 1.0.4       | Add libgd
- 1.0.5       | Add nginx 1.15.8, apache2-utils
+ 2.0.0       | nginx 1.17.6 + Nodejs 10.16
  
 ## Versions
 
 Main Package  | Version
 :-------------|:----------
- Alpine       | 3.8
- Nginx       | 1.14.1
- Nodejs       | 8.14
- Npm       | 8.14
- Yarn       | 1.7
- Nano       | 2.9.8
+ Alpine       | 3.10
+ Nginx       | 1.17.6
+ Nodejs       | 10.16
+ Npm       | 10.16
+ Yarn       | 1.16
+ Nano       | 4.3
