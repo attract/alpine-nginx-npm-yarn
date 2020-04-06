@@ -3,7 +3,7 @@
 Tag          | Version
 :------------|:----------
  2.0.0       | nginx 1.17.6 + Nodejs 10.16
- 2.0.1       | nginx 1.17.9 + Nodejs 12.15
+ 2.0.1       | nginx 1.17.9 + Nodejs 10.16
  
 ## Versions
 
