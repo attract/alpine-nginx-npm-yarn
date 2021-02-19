@@ -1,7 +1,7 @@
-FROM nginx:1.17.9-alpine-perl
+FROM nginx:1.19.7-alpine-perl
 
 MAINTAINER Amondar-SO
 
 RUN apk update && apk add nodejs npm yarn bash grep nano coreutils curl libgd apache2-utils supervisor
 
-EXPOSE 80 443
+EXPOSE 80 443   
