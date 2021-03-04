@@ -1,4 +1,4 @@
-FROM nginx:1.17.9-alpine-perl
+FROM nginx:1.17.10-alpine-perl
 
 MAINTAINER Amondar-SO
 
