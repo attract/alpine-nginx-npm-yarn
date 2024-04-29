@@ -1,4 +1,4 @@
-FROM nginx:1.19.7-alpine-perl
+FROM nginx:1.20.1-alpine-perl
 
 RUN apk update && apk add nodejs npm yarn bash grep nano coreutils curl libgd apache2-utils supervisor
 
